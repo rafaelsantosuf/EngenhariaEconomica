@@ -7,16 +7,16 @@ Este repositório contém um notebook Jupyter chamado `calcula_fatores.ipynb`, d
 - Fator de série uniforme (P/A, A/P, A/F, F/A)
 - Fator de gradiente uniforme (A/G)
 
-## 📌 Objetivo
+##  Objetivo
 
 Facilitar a análise de alternativas de investimento, projetos e fluxos de caixa por meio do cálculo automatizado dos principais fatores utilizados em engenharia econômica.
 
-## 📂 Estrutura
+##  Estrutura
 
 - `calcula_fatores.ipynb` — notebook interativo com funções para calcular os fatores econômicos, além de exemplos práticos de uso.
 - (Opcional) `requirements.txt` — arquivo com dependências, caso o notebook use bibliotecas externas como `numpy` ou `matplotlib`.
 
-## ▶️ Como usar
+##  Como usar
 
 1. Clone o repositório ou baixe o notebook.
 2. Execute o notebook em um ambiente Jupyter, como:
