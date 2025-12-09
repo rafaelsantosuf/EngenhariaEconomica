@@ -11,6 +11,10 @@ Este repositório contém um notebook Jupyter chamado `calcula_fatores.ipynb`, d
 
 Facilitar a análise de alternativas de investimento, projetos e fluxos de caixa por meio do cálculo automatizado dos principais fatores utilizados em engenharia econômica.
 
+##  Exemplo de Tabela Financeira
+
+<img width="1900" height="348" alt="image" src="https://github.com/user-attachments/assets/406778fa-3d55-4602-8521-a00db2d613f5" />
+
 ##  Estrutura
 
 - `calcula_fatores.ipynb` — notebook interativo com funções para calcular os fatores econômicos, além de exemplos práticos de uso.
